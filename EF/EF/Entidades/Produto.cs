@@ -8,11 +8,15 @@ namespace EF.Entidades
 {
     public class Produto
     {
-        public int ID { get; set; }
+        public int Id { get; set; }
         public String Nome { get; set; }
-        public decimal Preco { get; set; }
-        public virtual CategoriaDoProduto Categoria { get; set; }
-        public int? CategoriaID { get; set; }
+
+        public float Preco { get; set; }
+
+        public CategoriaDoProduto Categoria { get; set; }
+
+        public int? CategoriaId { get; set; }
+
         public String Descricao { get; set; }
 
         public int Quantidade { get; set; }

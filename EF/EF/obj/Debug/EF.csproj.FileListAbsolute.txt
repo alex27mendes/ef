@@ -12,3 +12,17 @@ C:\Users\alexsandro.luiz\Documents\Visual Studio 2017\Projects\EF\EF\bin\Debug\l
 C:\Users\alexsandro.luiz\Documents\Visual Studio 2017\Projects\EF\EF\bin\Debug\loja_log.ldf
 C:\Users\alexsandro.luiz\Documents\Visual Studio 2017\Projects\EF\EF\bin\Debug\DBEstoque.mdf
 C:\Users\alexsandro.luiz\Documents\Visual Studio 2017\Projects\EF\EF\bin\Debug\DBEstoque_log.ldf
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\ef\EF\EF\bin\Debug\EF.exe.config
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\ef\EF\EF\obj\Debug\EF.exe
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\ef\EF\EF\obj\Debug\EF.pdb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\ef\EF\EF\bin\Debug\DBEstoque.mdf
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\ef\EF\EF\bin\Debug\DBEstoque_log.ldf
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\ef\EF\EF\bin\Debug\loja.mdf
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\ef\EF\EF\bin\Debug\loja_log.ldf
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\ef\EF\EF\bin\Debug\EF.exe
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\ef\EF\EF\bin\Debug\EF.pdb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\ef\EF\EF\bin\Debug\EntityFramework.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\ef\EF\EF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\ef\EF\EF\bin\Debug\EntityFramework.xml
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\ef\EF\EF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\ef\EF\EF\obj\Debug\EF.csprojResolveAssemblyReference.cache

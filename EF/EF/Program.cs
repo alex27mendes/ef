@@ -20,26 +20,43 @@ namespace EF
 
              Console.WriteLine("fecho");
              Console.ReadLine();*/
-            CategoriaDoProduto c = new CategoriaDoProduto()
+            /* CategoriaDoProduto c = new CategoriaDoProduto()
+             {
+                 Nome = "informatica"
+             };
+             Produto p = new Produto()
+             {
+                 Nome = "computador",
+                 Categoria = c,
+                 Preco = 1000
+             };*/
+            ////////////////////Exemplo 2
+            /*   Produto p = new Produto()
+               {
+                   Nome = "impressora",
+                   Preco = 200,
+                   CategoriaID = 1
+               };
+
+          //     contexto.Categorias.Add(c);
+               contexto.Produtos.Add(p);
+               contexto.SaveChanges();*/
+
+            CategoriaDoProduto categoria = contexto.Categorias.Find(1);
+            foreach(var produto in categoria.Produtos)
             {
-                Nome = "informatica"
-            };
-            Produto p = new Produto()
-            {
-                Nome = "computador",
-                Categoria = c,
-                Preco = 1000
-            };
-            contexto.Categorias.Add(c);
-            contexto.Produtos.Add(p);
-            contexto.SaveChanges();
+                Console.WriteLine(produto.Nome);
+            }
             contexto.Dispose();
             Console.WriteLine("Gravado");
             Console.Read();
 
 
-     
-             
+
+
+
+
+
         }
     }
 }
